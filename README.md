@@ -1,4 +1,7 @@
 # Electron-AVA
+
+**NOTE**: This package is no longer maintained, because I no longer have the time to look after it. Consider using [Avaron](https://github.com/bokuweb/avaron) instead.
+
 [![CircleCI](https://circleci.com/gh/vdbwouter/electron-ava/tree/master.svg?style=svg)](https://circleci.com/gh/vdbwouter/electron-ava/tree/master)
 
 All the simpleness of [AVA](https://ava.li) tests for [Electron](http://electron.atom.io).
